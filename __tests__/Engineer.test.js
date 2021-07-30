@@ -18,7 +18,7 @@ describe("Engineer class", () => {
   });
 
   it("should have an email property that can be set on instanstiation", () => {
-    const engineer = new Engineer("Osvaldo", 1, "osvaldo@testemail.com");
+    const engineer = new Engineer("Osvaldo", 100, "osvaldo@testemail.com");
     expect(engineer.email).toBe("osvaldo@testemail.com");
   });
 
