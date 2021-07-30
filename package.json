@@ -1,0 +1,32 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming: Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavaletaosv/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zavaletaosv/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/zavaletaosv/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.12"
+  }
+}
