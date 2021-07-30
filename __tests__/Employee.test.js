@@ -13,8 +13,8 @@ describe("Employee class", () => {
   });
 
   it("should have a id property that can be set on instanstiation", () => {
-    const employee = new Employee("Osvaldo", 1);
-    expect(employee.id).toBe(1);
+    const employee = new Employee("Osvaldo", 100);
+    expect(employee.id).toBe(100);
   });
 
   it("should have an email property that can be set on instanstiation", () => {
