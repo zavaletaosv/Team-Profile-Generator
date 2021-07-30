@@ -4,7 +4,7 @@ describe("Engineer class", () => {
   it("can be instantiated", () => {
     const engineer = new Engineer();
     expect(typeof engineer).toBe("object");
-    expect(employee instanceof Engineer).toBe(true);
+    expect(engineer instanceof Engineer).toBe(true);
   });
 
   it("should have a name property that can be set on instanstiation", () => {
