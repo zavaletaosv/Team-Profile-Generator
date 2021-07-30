@@ -52,7 +52,7 @@ describe("Manager class", () => {
 
 
   it("should return an employee via getRole()", () => {
-    const test = "Intern";
+    const test = "Manager";
     const manager = new Manager(test);
     expect(manager.getRole()).toBe(test);
   });
