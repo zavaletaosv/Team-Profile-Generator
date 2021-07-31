@@ -94,16 +94,16 @@ function addEmployee() {
             detailObject = "";
             switch (team[i].role) {
                 case 'Manager':
-                    uniqueIdentifier = 'Office Number: '
+                    uniqueIdentifier = 'Office Number'
                 break;
 
                 case 'Intern':
-                    uniqueIdentifier = 'School: '
+                    uniqueIdentifier = 'School'
                 
                 break; 
 
                 case 'Engineer':
-                    uniqueIdentifier = 'GitHub: '
+                    uniqueIdentifier = 'GitHub'
                 break;
 
 
@@ -125,6 +125,7 @@ function addEmployee() {
               <li class="list-group-item"> Email: <a href="mailto:${team[i].email}"> ${team[i].email} </a></li>
               <li class="list-group-item"> ${uniqueIdentifier}: ${team[i].positionOption} </li>
               </div>
+            </div>
               </main>
             `       
         }

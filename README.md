@@ -10,6 +10,10 @@ Depository Link: https://github.com/zavaletaosv/Team-Profile-Generator
 
 Once deployed, the application appears as the image attached below on a traditional desktop. A video is also added to showcase the application.
 
+<img
+src = "./src/teamss.png"
+alt = "A screenshot of the application" />
+
 ## Resources
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
