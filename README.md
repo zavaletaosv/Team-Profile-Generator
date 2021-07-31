@@ -8,11 +8,13 @@ The purpose of this project was to let the user create a team directly from the 
 Depository Link: https://github.com/zavaletaosv/Team-Profile-Generator
 ## Usage
 
-Once deployed, the application appears as the image attached below on a traditional desktop. A video is also added to showcase the application.
+Once deployed, the application appears as the image attached below on a traditional desktop. A link to the video is also added to showcase the application.
 
 <img
 src = "./src/teamss.png"
 alt = "A screenshot of the application" />
+
+https://drive.google.com/file/d/1q20fM6B73SQEEqXzzMmYyEj_YGPufUdl/view?usp=sharing
 
 ## Resources
 
