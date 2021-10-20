@@ -5,7 +5,7 @@ The purpose of this project was to let the user create a team directly from the 
 
 ## Links
 
-Depository Link: https://github.com/zavaletaosv/Team-Profile-Generator
+Repository Link: https://github.com/zavaletaosv/Team-Profile-Generator
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop. A link to the video is also added to showcase the application.
